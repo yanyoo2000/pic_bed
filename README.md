@@ -15,3 +15,5 @@
   [【PicGO 】打造免费、快速、稳定的私人图床](https://zhuanlan.zhihu.com/p/107909783)
   
   [使用Typora+坚果云（github）打造免费的个人云笔记](https://zhuanlan.zhihu.com/p/71600196)
+  
+  [Typora+PicGo-core插入图片自动上传，gitee，gitgub，sm.ms三种免费图床](https://blog.csdn.net/jaymie1023/article/details/105361168/)
